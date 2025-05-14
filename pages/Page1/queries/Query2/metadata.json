@@ -22,9 +22,9 @@
       "name": "users",
       "pluginId": "postgres-plugin"
     },
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "name": "Query2",
     "pageId": "Page1",
-    "userSetOnLoad": false
+    "userSetOnLoad": true
   }
 }
